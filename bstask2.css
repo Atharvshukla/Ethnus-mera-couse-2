@@ -1,0 +1,116 @@
+#head{
+    background-color: #FDBE33;
+    height: 180px;
+    width: 100%;
+}
+#navi {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    width: 80%;
+    background-color: #030F27 !important;
+    height: 70px;
+    
+}
+#con{
+    color: white;
+}
+.active{
+    color: #FDBE33 !important;
+}
+  
+#navbarDropdown{
+    color: white;
+    background-color: #030F27;
+}
+
+#builderz{
+    font-size: 60px !important;
+    font-weight: 900;
+    
+}
+#foot{
+    background-color: white;
+    text-align: center;
+    width: 100%;
+}
+#col1foot{
+    background-color: #030F27;
+    color: #FDBE33;
+}
+#cont{
+    font-size: small;
+    text-align: start;
+    margin: 2%;
+}
+#worker{
+    margin: 15%;
+    padding: 2%;
+    height: 70px;
+    width: 50px;
+}
+#col2foot{
+    background-color:  #FDBE33;
+    color:#030F27 ;
+
+}
+#building{
+    height: 70px;
+    width: 50px;
+    padding: 2%;
+    margin: 15%;
+}
+#call{
+    height: 60px;
+    width: 60px;
+    
+    margin: 15%;
+
+}
+#topcol{
+    background-color: #FDBE33;
+    height: 180px;
+    
+}
+#topcolin{
+    background-color: #FDBE33;
+    width: 100px;
+    height: 60px;
+    
+}
+#headimg,#call2,#mail{
+    height: 50px;
+    width: 50px;
+    
+}
+#side{
+    
+    font-size: small;
+}
+#qubutt1{
+    border:2px solid white;
+}
+#qubutt1:hover{
+    background-color: #030F27;
+    color: white;
+
+}
+
+#con:hover{
+    color: #FDBE33;
+
+}
+.con:hover{
+    color: #FDBE33 !important;
+
+}
+.mm{
+    border: 2px solid white;
+    color: white;
+}
+.mm:hover{
+    color: #030F27;
+    background-color: #FDBE33;
+    
+
+}
